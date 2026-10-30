@@ -1,7 +1,8 @@
 {
   "name": "videosdk-file-explorer",
-  "private": true,
   "version": "1.0.0",
+  "description": "In-memory virtual file explorer SDK and React frontend application",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
